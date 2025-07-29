@@ -139,9 +139,6 @@ Some ideas for contributions:
   - Create new endpoints (e.g., filter questions by category).
   - Improve the data structure.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ```
 ```
