@@ -1,0 +1,1302 @@
+[
+    {
+      "id": 1,
+      "question": "Which gas is most abundant in the Earth's atmosphere?",
+      "options": {
+        "a": "Oxygen",
+        "b": "Hydrogen",
+        "c": "Carbon Dioxide",
+        "d": "Nitrogen"
+      },
+      "answer": "d",
+      "category": "Science",
+      "level": 2
+    },
+    {
+      "id": 2,
+      "question": "Who was the first Emperor of the Mauryan Empire in ancient India?",
+      "options": {
+        "a": "Ashoka",
+        "b": "Chandragupta Maurya",
+        "c": "Samudragupta",
+        "d": "Bindusara"
+      },
+      "answer": "b",
+      "category": "History",
+      "level": 4
+    },
+    {
+      "id": 3,
+      "question": "What is the capital city of Australia?",
+      "options": {
+        "a": "Sydney",
+        "b": "Melbourne",
+        "c": "Canberra",
+        "d": "Perth"
+      },
+      "answer": "c",
+      "category": "Geography",
+      "level": 3
+    },
+    {
+      "id": 4,
+      "question": "Who wrote the famous play 'Romeo and Juliet'?",
+      "options": {
+        "a": "Charles Dickens",
+        "b": "George Bernard Shaw",
+        "c": "Jane Austen",
+        "d": "William Shakespeare"
+      },
+      "answer": "d",
+      "category": "Literature",
+      "level": 1
+    },
+    {
+      "id": 5,
+      "question": "In which year did the Titanic sink?",
+      "options": {
+        "a": "1905",
+        "b": "1912",
+        "c": "1918",
+        "d": "1923"
+      },
+      "answer": "b",
+      "category": "History",
+      "level": 5
+    },
+    {
+      "id": 6,
+      "question": "What does 'CPU' stand for in computer terminology?",
+      "options": {
+        "a": "Central Processing Unit",
+        "b": "Computer Personal Unit",
+        "c": "Central Program Unit",
+        "d": "Computer Processing Unit"
+      },
+      "answer": "a",
+      "category": "Technology",
+      "level": 1
+    },
+    {
+      "id": 7,
+      "question": "Which planet is known as the 'Red Planet'?",
+      "options": {
+        "a": "Venus",
+        "b": "Jupiter",
+        "c": "Mars",
+        "d": "Saturn"
+      },
+      "answer": "c",
+      "category": "Science",
+      "level": 2
+    },
+    {
+      "id": 8,
+      "question": "The 'Mona Lisa' painting is displayed at which museum?",
+      "options": {
+        "a": "The British Museum, London",
+        "b": "The Metropolitan Museum of Art, New York",
+        "c": "The Louvre, Paris",
+        "d": "The Prado Museum, Madrid"
+      },
+      "answer": "c",
+      "category": "Art & Culture",
+      "level": 6
+    },
+    {
+      "id": 9,
+      "question": "How many players are on a standard basketball team on the court at one time?",
+      "options": {
+        "a": "5",
+        "b": "6",
+        "c": "7",
+        "d": "11"
+      },
+      "answer": "a",
+      "category": "Sports",
+      "level": 2
+    },
+    {
+      "id": 10,
+      "question": "What is the chemical symbol for Gold?",
+      "options": {
+        "a": "Ag",
+        "b": "Au",
+        "c": "Pb",
+        "d": "Fe"
+      },
+      "answer": "b",
+      "category": "Science",
+      "level": 4
+    },
+    {
+      "id": 11,
+      "question": "The Quit India Movement was launched by Mahatma Gandhi in which year?",
+      "options": {
+        "a": "1930",
+        "b": "1947",
+        "c": "1942",
+        "d": "1921"
+      },
+      "answer": "c",
+      "category": "History",
+      "level": 5
+    },
+    {
+      "id": 12,
+      "question": "Which is the longest river in the world?",
+      "options": {
+        "a": "Amazon",
+        "b": "Nile",
+        "c": "Yangtze",
+        "d": "Mississippi"
+      },
+      "answer": "b",
+      "category": "Geography",
+      "level": 3
+    },
+    {
+      "id": 13,
+      "question": "Who is the author of 'The Discovery of India'?",
+      "options": {
+        "a": "Mahatma Gandhi",
+        "b": "Sardar Patel",
+        "c": "Jawaharlal Nehru",
+        "d": "Rabindranath Tagore"
+      },
+      "answer": "c",
+      "category": "Literature",
+      "level": 6
+    },
+    {
+      "id": 14,
+      "question": "What is the currency of Japan?",
+      "options": {
+        "a": "Yuan",
+        "b": "Won",
+        "c": "Yen",
+        "d": "Baht"
+      },
+      "answer": "c",
+      "category": "General Knowledge",
+      "level": 3
+    },
+    {
+      "id": 15,
+      "question": "Which country won the first-ever FIFA World Cup in 1930?",
+      "options": {
+        "a": "Brazil",
+        "b": "Argentina",
+        "c": "Italy",
+        "d": "Uruguay"
+      },
+      "answer": "d",
+      "category": "Sports",
+      "level": 7
+    },
+    {
+      "id": 16,
+      "question": "The theory of relativity is attributed to which scientist?",
+      "options": {
+        "a": "Isaac Newton",
+        "b": "Galileo Galilei",
+        "c": "Albert Einstein",
+        "d": "Marie Curie"
+      },
+      "answer": "c",
+      "category": "Science",
+      "level": 3
+    },
+    {
+      "id": 17,
+      "question": "Which Indian state is known as the 'Land of Five Rivers'?",
+      "options": {
+        "a": "Gujarat",
+        "b": "Punjab",
+        "c": "Haryana",
+        "d": "Rajasthan"
+      },
+      "answer": "b",
+      "category": "Geography",
+      "level": 4
+    },
+    {
+      "id": 18,
+      "question": "What does 'HTTP' stand for?",
+      "options": {
+        "a": "HyperText Transfer Protocol",
+        "b": "HyperText Transmission Protocol",
+        "c": "High Transfer Text Protocol",
+        "d": "HyperText Transfer Page"
+      },
+      "answer": "a",
+      "category": "Technology",
+      "level": 4
+    },
+    {
+      "id": 19,
+      "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
+      "options": {
+        "a": "Bessie Coleman",
+        "b": "Harriet Quimby",
+        "c": "Amelia Earhart",
+        "d": "Valentina Tereshkova"
+      },
+      "answer": "c",
+      "category": "History",
+      "level": 7
+    },
+    {
+      "id": 20,
+      "question": "Which element is essential for human bones?",
+      "options": {
+        "a": "Iron",
+        "b": "Potassium",
+        "c": "Calcium",
+        "d": "Sodium"
+      },
+      "answer": "c",
+      "category": "Science",
+      "level": 1
+    },
+    {
+      "id": 21,
+      "question": "In the Ramayana, who was the wife of Lakshmana?",
+      "options": {
+        "a": "Mandavi",
+        "b": "Shrutakirti",
+        "c": "Urmila",
+        "d": "Sita"
+      },
+      "answer": "c",
+      "category": "Mythology",
+      "level": 5
+    },
+    {
+      "id": 22,
+      "question": "The famous 'Gobi Desert' is primarily located in which two countries?",
+      "options": {
+        "a": "China and Mongolia",
+        "b": "India and Pakistan",
+        "c": "Russia and Kazakhstan",
+        "d": "Iran and Iraq"
+      },
+      "answer": "a",
+      "category": "Geography",
+      "level": 6
+    },
+    {
+      "id": 23,
+      "question": "Who directed the movie 'Schindler's List'?",
+      "options": {
+        "a": "Martin Scorsese",
+        "b": "Francis Ford Coppola",
+        "c": "James Cameron",
+        "d": "Steven Spielberg"
+      },
+      "answer": "d",
+      "category": "Movies",
+      "level": 5
+    },
+    {
+      "id": 24,
+      "question": "The game of chess originated in which country?",
+      "options": {
+        "a": "China",
+        "b": "Egypt",
+        "c": "India",
+        "d": "Greece"
+      },
+      "answer": "c",
+      "category": "History",
+      "level": 4
+    },
+    {
+      "id": 25,
+      "question": "What is the study of earthquakes called?",
+      "options": {
+        "a": "Geology",
+        "b": "Seismology",
+        "c": "Volcanology",
+        "d": "Meteorology"
+      },
+      "answer": "b",
+      "category": "Science",
+      "level": 3
+    },
+    {
+      "id": 26,
+      "question": "Who invented the telephone?",
+      "options": {
+        "a": "Thomas Edison",
+        "b": "Alexander Graham Bell",
+        "c": "Guglielmo Marconi",
+        "d": "Nikola Tesla"
+      },
+      "answer": "b",
+      "category": "Technology",
+      "level": 2
+    },
+    {
+      "id": 27,
+      "question": "Which is the largest ocean on Earth?",
+      "options": {
+        "a": "Atlantic Ocean",
+        "b": "Indian Ocean",
+        "c": "Arctic Ocean",
+        "d": "Pacific Ocean"
+      },
+      "answer": "d",
+      "category": "Geography",
+      "level": 2
+    },
+    {
+      "id": 28,
+      "question": "In which city were the 2024 Summer Olympics scheduled to be held?",
+      "options": {
+        "a": "Los Angeles",
+        "b": "Tokyo",
+        "c": "Paris",
+        "d": "Rome"
+      },
+      "answer": "c",
+      "category": "Sports",
+      "level": 5
+    },
+    {
+      "id": 29,
+      "question": "The character 'Sherlock Holmes' was created by which author?",
+      "options": {
+        "a": "Agatha Christie",
+        "b": "J.K. Rowling",
+        "c": "Arthur Conan Doyle",
+        "d": "Charles Dickens"
+      },
+      "answer": "c",
+      "category": "Literature",
+      "level": 3
+    },
+    {
+      "id": 30,
+      "question": "What is the hardest natural substance on Earth?",
+      "options": {
+        "a": "Gold",
+        "b": "Iron",
+        "c": "Diamond",
+        "d": "Platinum"
+      },
+      "answer": "c",
+      "category": "Science",
+      "level": 4
+    },
+    {
+      "id": 31,
+      "question": "The Battle of Panipat in 1526 marked the beginning of which empire in India?",
+      "options": {
+        "a": "Maurya Empire",
+        "b": "Gupta Empire",
+        "c": "Mughal Empire",
+        "d": "Maratha Empire"
+      },
+      "answer": "c",
+      "category": "History",
+      "level": 6
+    },
+    {
+      "id": 32,
+      "question": "Which country is known as the 'Land of the Rising Sun'?",
+      "options": {
+        "a": "China",
+        "b": "Japan",
+        "c": "South Korea",
+        "d": "Thailand"
+      },
+      "answer": "b",
+      "category": "Geography",
+      "level": 3
+    },
+    {
+      "id": 33,
+      "question": "Who was the first man to walk on the moon?",
+      "options": {
+        "a": "Buzz Aldrin",
+        "b": "Yuri Gagarin",
+        "c": "Michael Collins",
+        "d": "Neil Armstrong"
+      },
+      "answer": "d",
+      "category": "History",
+      "level": 2
+    },
+    {
+      "id": 34,
+      "question": "The film 'Lagaan', which was nominated for an Oscar, is based on which sport?",
+      "options": {
+        "a": "Hockey",
+        "b": "Football",
+        "c": "Cricket",
+        "d": "Kabaddi"
+      },
+      "answer": "c",
+      "category": "Movies",
+      "level": 1
+    },
+    {
+      "id": 35,
+      "question": "How many states are there in India? (As of 2025)",
+      "options": {
+        "a": "27",
+        "b": "28",
+        "c": "29",
+        "d": "30"
+      },
+      "answer": "b",
+      "category": "General Knowledge",
+      "level": 4
+    },
+    {
+      "id": 36,
+      "question": "What is the main component of natural gas?",
+      "options": {
+        "a": "Butane",
+        "b": "Propane",
+        "c": "Ethane",
+        "d": "Methane"
+      },
+      "answer": "d",
+      "category": "Science",
+      "level": 6
+    },
+    {
+      "id": 37,
+      "question": "Who won the FIFA World Cup in 2022?",
+      "options": {
+        "a": "France",
+        "b": "Brazil",
+        "c": "Argentina",
+        "d": "Germany"
+      },
+      "answer": "c",
+      "category": "Sports",
+      "level": 4
+    },
+    {
+      "id": 38,
+      "question": "Which river flows through the city of London?",
+      "options": {
+        "a": "Seine",
+        "b": "Thames",
+        "c": "Danube",
+        "d": "Tiber"
+      },
+      "answer": "b",
+      "category": "Geography",
+      "level": 3
+    },
+    {
+      "id": 39,
+      "question": "Who is credited with inventing the light bulb?",
+      "options": {
+        "a": "Nikola Tesla",
+        "b": "Thomas Edison",
+        "c": "Alexander Graham Bell",
+        "d": "Benjamin Franklin"
+      },
+      "answer": "b",
+      "category": "History",
+      "level": 2
+    },
+    {
+      "id": 40,
+      "question": "Which of these is not a primary color?",
+      "options": {
+        "a": "Red",
+        "b": "Yellow",
+        "c": "Blue",
+        "d": "Green"
+      },
+      "answer": "d",
+      "category": "Art & Culture",
+      "level": 1
+    },
+    {
+      "id": 41,
+      "question": "In the Mahabharata, who was the father of Arjuna?",
+      "options": {
+        "a": "Dhritarashtra",
+        "b": "Pandu",
+        "c": "Drona",
+        "d": "Bhishma"
+      },
+      "answer": "b",
+      "category": "Mythology",
+      "level": 4
+    },
+    {
+      "id": 42,
+      "question": "Which company developed the Android operating system?",
+      "options": {
+        "a": "Apple",
+        "b": "Microsoft",
+        "c": "Google",
+        "d": "Samsung"
+      },
+      "answer": "c",
+      "category": "Technology",
+      "level": 3
+    },
+    {
+      "id": 43,
+      "question": "The Suez Canal connects the Mediterranean Sea to which other sea?",
+      "options": {
+        "a": "Black Sea",
+        "b": "Caspian Sea",
+        "c": "Red Sea",
+        "d": "Adriatic Sea"
+      },
+      "answer": "c",
+      "category": "Geography",
+      "level": 7
+    },
+    {
+      "id": 44,
+      "question": "Who was the first President of the United States?",
+      "options": {
+        "a": "Abraham Lincoln",
+        "b": "Thomas Jefferson",
+        "c": "George Washington",
+        "d": "John Adams"
+      },
+      "answer": "c",
+      "category": "History",
+      "level": 2
+    },
+    {
+      "id": 45,
+      "question": "Which Grand Slam tennis tournament is played on a clay court?",
+      "options": {
+        "a": "Wimbledon",
+        "b": "US Open",
+        "c": "Australian Open",
+        "d": "French Open"
+      },
+      "answer": "d",
+      "category": "Sports",
+      "level": 4
+    },
+    {
+      "id": 46,
+      "question": "The Ajanta and Ellora caves, a UNESCO World Heritage Site, are located in which Indian state?",
+      "options": {
+        "a": "Karnataka",
+        "b": "Madhya Pradesh",
+        "c": "Maharashtra",
+        "d": "Gujarat"
+      },
+      "answer": "c",
+      "category": "Art & Culture",
+      "level": 5
+    },
+    {
+      "id": 47,
+      "question": "What is the name of the galaxy that contains our Solar System?",
+      "options": {
+        "a": "Andromeda Galaxy",
+        "b": "Triangulum Galaxy",
+        "c": "Whirlpool Galaxy",
+        "d": "Milky Way Galaxy"
+      },
+      "answer": "d",
+      "category": "Science",
+      "level": 2
+    },
+    {
+      "id": 48,
+      "question": "Who wrote '1984'?",
+      "options": {
+        "a": "George Orwell",
+        "b": "Aldous Huxley",
+        "c": "Ray Bradbury",
+        "d": "J. R. R. Tolkien"
+      },
+      "answer": "a",
+      "category": "Literature",
+      "level": 6
+    },
+    {
+      "id": 49,
+      "question": "What is the boiling point of water at sea level in Celsius?",
+      "options": {
+        "a": "90°C",
+        "b": "100°C",
+        "c": "110°C",
+        "d": "120°C"
+      },
+      "answer": "b",
+      "category": "Science",
+      "level": 1
+    },
+    {
+      "id": 50,
+      "question": "The World War II ended in which year?",
+      "options": {
+        "a": "1943",
+        "b": "1944",
+        "c": "1945",
+        "d": "1946"
+      },
+      "answer": "c",
+      "category": "History",
+      "level": 4
+    },
+    {
+      "id": 51,
+      "question": "What does ISRO stand for?",
+      "options": {
+        "a": "Indian Satellite Research Organization",
+        "b": "Indian Space Research Organization",
+        "c": "International Space Research Organization",
+        "d": "Indian Space Rocket Organization"
+      },
+      "answer": "b",
+      "category": "Technology",
+      "level": 3
+    },
+    {
+      "id": 52,
+      "question": "Who composed the Indian National Anthem, 'Jana Gana Mana'?",
+      "options": {
+        "a": "Bankim Chandra Chatterjee",
+        "b": "Sarojini Naidu",
+        "c": "Rabindranath Tagore",
+        "d": "Subramania Bharati"
+      },
+      "answer": "c",
+      "category": "History",
+      "level": 3
+    },
+    {
+      "id": 53,
+      "question": "Mount Everest, the world's highest peak, is located in which mountain range?",
+      "options": {
+        "a": "The Andes",
+        "b": "The Alps",
+        "c": "The Himalayas",
+        "d": "The Rockies"
+      },
+      "answer": "c",
+      "category": "Geography",
+      "level": 2
+    },
+    {
+      "id": 54,
+      "question": "Sachin Tendulkar played his last international cricket match against which team?",
+      "options": {
+        "a": "Australia",
+        "b": "Pakistan",
+        "c": "Sri Lanka",
+        "d": "West Indies"
+      },
+      "answer": "d",
+      "category": "Sports",
+      "level": 6
+    },
+    {
+      "id": 55,
+      "question": "What is the main function of the kidneys in the human body?",
+      "options": {
+        "a": "Pumping blood",
+        "b": "Digesting food",
+        "c": "Filtering waste from blood",
+        "d": "Producing hormones"
+      },
+      "answer": "c",
+      "category": "Science",
+      "level": 4
+    },
+    {
+      "id": 56,
+      "question": "Who painted the ceiling of the Sistine Chapel in Vatican City?",
+      "options": {
+        "a": "Leonardo da Vinci",
+        "b": "Raphael",
+        "c": "Michelangelo",
+        "d": "Donatello"
+      },
+      "answer": "c",
+      "category": "Art & Culture",
+      "level": 8
+    },
+    {
+      "id": 57,
+      "question": "In which country would you find the ancient city of Petra?",
+      "options": {
+        "a": "Egypt",
+        "b": "Greece",
+        "c": "Jordan",
+        "d": "Turkey"
+      },
+      "answer": "c",
+      "category": "Geography",
+      "level": 7
+    },
+    {
+      "id": 58,
+      "question": "Which programming language is often called the 'language of the web'?",
+      "options": {
+        "a": "Python",
+        "b": "Java",
+        "c": "C++",
+        "d": "JavaScript"
+      },
+      "answer": "d",
+      "category": "Technology",
+      "level": 4
+    },
+    {
+      "id": 59,
+      "question": "Who was the first Indian woman to win a Nobel Prize?",
+      "options": {
+        "a": "Indira Gandhi",
+        "b": "Sarojini Naidu",
+        "c": "Mother Teresa",
+        "d": "Anandi Gopal Joshi"
+      },
+      "answer": "c",
+      "category": "History",
+      "level": 5
+    },
+    {
+      "id": 60,
+      "question": "What is 'photosynthesis'?",
+      "options": {
+        "a": "A process animals use to breathe",
+        "b": "A process plants use to make food",
+        "c": "The formation of fossils",
+        "d": "The process of a star's birth"
+      },
+      "answer": "b",
+      "category": "Science",
+      "level": 2
+    },
+    {
+      "id": 61,
+      "question": "The term 'LBW' is associated with which sport?",
+      "options": {
+        "a": "Football",
+        "b": "Hockey",
+        "c": "Cricket",
+        "d": "Tennis"
+      },
+      "answer": "c",
+      "category": "Sports",
+      "level": 1
+    },
+    {
+      "id": 62,
+      "question": "Who is the author of the Harry Potter series?",
+      "options": {
+        "a": "J. R. R. Tolkien",
+        "b": "C. S. Lewis",
+        "c": "J. K. Rowling",
+        "d": "George R. R. Martin"
+      },
+      "answer": "c",
+      "category": "Literature",
+      "level": 1
+    },
+    {
+      "id": 63,
+      "question": "Which of these cities is located on the banks of river Ganga?",
+      "options": {
+        "a": "Delhi",
+        "b": "Lucknow",
+        "c": "Varanasi",
+        "d": "Ahmedabad"
+      },
+      "answer": "c",
+      "category": "Geography",
+      "level": 3
+    },
+    {
+      "id": 64,
+      "question": "Which Mughal emperor built the Taj Mahal?",
+      "options": {
+        "a": "Akbar",
+        "b": "Jahangir",
+        "c": "Shah Jahan",
+        "d": "Aurangzeb"
+      },
+      "answer": "c",
+      "category": "History",
+      "level": 2
+    },
+    {
+      "id": 65,
+      "question": "What is the speed of light in a vacuum?",
+      "options": {
+        "a": "300,000 km/s",
+        "b": "150,000 km/s",
+        "c": "500,000 km/s",
+        "d": "1,000,000 km/s"
+      },
+      "answer": "a",
+      "category": "Science",
+      "level": 6
+    },
+    {
+      "id": 66,
+      "question": "Who was the lead actor in the movie 'Forrest Gump'?",
+      "options": {
+        "a": "Tom Cruise",
+        "b": "Tom Hanks",
+        "c": "Brad Pitt",
+        "d": "Johnny Depp"
+      },
+      "answer": "b",
+      "category": "Movies",
+      "level": 3
+    },
+    {
+      "id": 67,
+      "question": "What is the largest desert in the world?",
+      "options": {
+        "a": "Sahara Desert",
+        "b": "Arabian Desert",
+        "c": "Gobi Desert",
+        "d": "Antarctic Polar Desert"
+      },
+      "answer": "d",
+      "category": "Geography",
+      "level": 8
+    },
+    {
+      "id": 68,
+      "question": "Which dynasty was ruling India when the East India Company was formed?",
+      "options": {
+        "a": "Maurya",
+        "b": "Gupta",
+        "c": "Mughal",
+        "d": "Maratha"
+      },
+      "answer": "c",
+      "category": "History",
+      "level": 7
+    },
+    {
+      "id": 69,
+      "question": "The headquarters of the United Nations is located in which city?",
+      "options": {
+        "a": "Geneva",
+        "b": "London",
+        "c": "New York City",
+        "d": "Paris"
+      },
+      "answer": "c",
+      "category": "General Knowledge",
+      "level": 4
+    },
+    {
+      "id": 70,
+      "question": "Which vitamin is also known as ascorbic acid and is found in citrus fruits?",
+      "options": {
+        "a": "Vitamin A",
+        "b": "Vitamin B",
+        "c": "Vitamin C",
+        "d": "Vitamin D"
+      },
+      "answer": "c",
+      "category": "Science",
+      "level": 2
+    },
+    {
+      "id": 71,
+      "question": "Which country is the largest producer of coffee in the world?",
+      "options": {
+        "a": "Colombia",
+        "b": "Vietnam",
+        "c": "Brazil",
+        "d": "Ethiopia"
+      },
+      "answer": "c",
+      "category": "Geography",
+      "level": 5
+    },
+    {
+      "id": 72,
+      "question": "The 'Dronacharya Award' in India is given to whom?",
+      "options": {
+        "a": "Excellent Athletes",
+        "b": "Outstanding Coaches",
+        "c": "Film Directors",
+        "d": "Scientists"
+      },
+      "answer": "b",
+      "category": "Sports",
+      "level": 5
+    },
+    {
+      "id": 73,
+      "question": "Who was the first Indian to travel to space?",
+      "options": {
+        "a": "Kalpana Chawla",
+        "b": "Sunita Williams",
+        "c": "Rakesh Sharma",
+        "d": "Vikram Sarabhai"
+      },
+      "answer": "c",
+      "category": "History",
+      "level": 3
+    },
+    {
+      "id": 74,
+      "question": "What does a 'Geiger Counter' measure?",
+      "options": {
+        "a": "Air pressure",
+        "b": "Earthquakes",
+        "c": "Radiation",
+        "d": "Wind speed"
+      },
+      "answer": "c",
+      "category": "Science",
+      "level": 7
+    },
+    {
+      "id": 75,
+      "question": "The first book of the 'Panchatantra' was written by whom?",
+      "options": {
+        "a": "Tulsidas",
+        "b": "Kalidasa",
+        "c": "Vishnu Sharma",
+        "d": "Valmiki"
+      },
+      "answer": "c",
+      "category": "Literature",
+      "level": 6
+    },
+    {
+      "id": 76,
+      "question": "The Statue of Liberty in New York was a gift from which country?",
+      "options": {
+        "a": "United Kingdom",
+        "b": "Germany",
+        "c": "Italy",
+        "d": "France"
+      },
+      "answer": "d",
+      "category": "History",
+      "level": 4
+    },
+    {
+      "id": 77,
+      "question": "In which year was the first iPhone released by Apple?",
+      "options": {
+        "a": "2005",
+        "b": "2007",
+        "c": "2009",
+        "d": "2010"
+      },
+      "answer": "b",
+      "category": "Technology",
+      "level": 4
+    },
+    {
+      "id": 78,
+      "question": "The dance form 'Kathakali' originated in which Indian state?",
+      "options": {
+        "a": "Tamil Nadu",
+        "b": "Kerala",
+        "c": "Andhra Pradesh",
+        "d": "Karnataka"
+      },
+      "answer": "b",
+      "category": "Art & Culture",
+      "level": 5
+    },
+    {
+      "id": 79,
+      "question": "How many rings are there on the Olympic flag?",
+      "options": {
+        "a": "4",
+        "b": "5",
+        "c": "6",
+        "d": "7"
+      },
+      "answer": "b",
+      "category": "Sports",
+      "level": 1
+    },
+    {
+      "id": 80,
+      "question": "What is the primary language spoken in Brazil?",
+      "options": {
+        "a": "Spanish",
+        "b": "Portuguese",
+        "c": "Brazilian",
+        "d": "English"
+      },
+      "answer": "b",
+      "category": "General Knowledge",
+      "level": 4
+    },
+    {
+      "id": 81,
+      "question": "Which of the following is a 'Search Engine'?",
+      "options": {
+        "a": "Facebook",
+        "b": "Gmail",
+        "c": "Google",
+        "d": "Microsoft Word"
+      },
+      "answer": "c",
+      "category": "Technology",
+      "level": 1
+    },
+    {
+      "id": 82,
+      "question": "The 'Green Revolution' in India was primarily associated with the production of what?",
+      "options": {
+        "a": "Milk",
+        "b": "Fish",
+        "c": "Wheat",
+        "d": "Cotton"
+      },
+      "answer": "c",
+      "category": "History",
+      "level": 6
+    },
+    {
+      "id": 83,
+      "question": "Which instrument is used to measure atmospheric pressure?",
+      "options": {
+        "a": "Thermometer",
+        "b": "Barometer",
+        "c": "Ammeter",
+        "d": "Hygrometer"
+      },
+      "answer": "b",
+      "category": "Science",
+      "level": 5
+    },
+    {
+      "id": 84,
+      "question": "Who was the first female Prime Minister of India?",
+      "options": {
+        "a": "Sarojini Naidu",
+        "b": "Pratibha Patil",
+        "c": "Sonia Gandhi",
+        "d": "Indira Gandhi"
+      },
+      "answer": "d",
+      "category": "History",
+      "level": 3
+    },
+    {
+      "id": 85,
+      "question": "The ancient wonder 'The Hanging Gardens' were said to be in which city?",
+      "options": {
+        "a": "Rome",
+        "b": "Athens",
+        "c": "Babylon",
+        "d": "Alexandria"
+      },
+      "answer": "c",
+      "category": "History",
+      "level": 7
+    },
+    {
+      "id": 86,
+      "question": "Which of these is a famous festival of lights celebrated by Hindus?",
+      "options": {
+        "a": "Holi",
+        "b": "Diwali",
+        "c": "Eid",
+        "d": "Christmas"
+      },
+      "answer": "b",
+      "category": "Art & Culture",
+      "level": 1
+    },
+    {
+      "id": 87,
+      "question": "Who holds the record for the most goals scored in FIFA World Cup history?",
+      "options": {
+        "a": "Lionel Messi",
+        "b": "Pele",
+        "c": "Ronaldo (Brazilian)",
+        "d": "Miroslav Klose"
+      },
+      "answer": "d",
+      "category": "Sports",
+      "level": 8
+    },
+    {
+      "id": 88,
+      "question": "Which layer of the atmosphere protects Earth from harmful ultraviolet radiation?",
+      "options": {
+        "a": "Troposphere",
+        "b": "Mesosphere",
+        "c": "Ozone Layer",
+        "d": "Ionosphere"
+      },
+      "answer": "c",
+      "category": "Science",
+      "level": 4
+    },
+    {
+      "id": 89,
+      "question": "India's Chandrayaan-3 mission successfully landed on which part of the Moon in 2023?",
+      "options": {
+        "a": "North Pole",
+        "b": "Sea of Tranquility",
+        "c": "Equator",
+        "d": "South Pole"
+      },
+      "answer": "d",
+      "category": "Current Affairs",
+      "level": 5
+    },
+    {
+      "id": 90,
+      "question": "Who wrote the Indian national song 'Vande Mataram'?",
+      "options": {
+        "a": "Rabindranath Tagore",
+        "b": "Bankim Chandra Chatterjee",
+        "c": "Muhammad Iqbal",
+        "d": "Sarojini Naidu"
+      },
+      "answer": "b",
+      "category": "History",
+      "level": 6
+    },
+    {
+      "id": 91,
+      "question": "Which actor played the role of 'Iron Man' in the Marvel Cinematic Universe?",
+      "options": {
+        "a": "Chris Evans",
+        "b": "Chris Hemsworth",
+        "c": "Robert Downey Jr.",
+        "d": "Mark Ruffalo"
+      },
+      "answer": "c",
+      "category": "Movies",
+      "level": 2
+    },
+    {
+      "id": 92,
+      "question": "The 'Victoria Falls' is located on the border of which two African countries?",
+      "options": {
+        "a": "Kenya and Tanzania",
+        "b": "Zambia and Zimbabwe",
+        "c": "South Africa and Namibia",
+        "d": "Egypt and Sudan"
+      },
+      "answer": "b",
+      "category": "Geography",
+      "level": 8
+    },
+    {
+      "id": 93,
+      "question": "In Greek mythology, who was the king of the gods?",
+      "options": {
+        "a": "Apollo",
+        "b": "Poseidon",
+        "c": "Hades",
+        "d": "Zeus"
+      },
+      "answer": "d",
+      "category": "Mythology",
+      "level": 3
+    },
+    {
+      "id": 94,
+      "question": "What is the legal voting age in India?",
+      "options": {
+        "a": "16",
+        "b": "18",
+        "c": "21",
+        "d": "25"
+      },
+      "answer": "b",
+      "category": "General Knowledge",
+      "level": 1
+    },
+    {
+      "id": 95,
+      "question": "What is the smallest prime number?",
+      "options": {
+        "a": "0",
+        "b": "1",
+        "c": "2",
+        "d": "3"
+      },
+      "answer": "c",
+      "category": "Science",
+      "level": 4
+    },
+    {
+      "id": 96,
+      "question": "The Nobel Prizes are awarded in which country?",
+      "options": {
+        "a": "Switzerland",
+        "b": "Sweden",
+        "c": "United Kingdom",
+        "d": "United States"
+      },
+      "answer": "b",
+      "category": "General Knowledge",
+      "level": 6
+    },
+    {
+      "id": 97,
+      "question": "Who directed the Academy Award-winning film 'Parasite'?",
+      "options": {
+        "a": "Bong Joon-ho",
+        "b": "Park Chan-wook",
+        "c": "Kim Jee-woon",
+        "d": "Lee Chang-dong"
+      },
+      "answer": "a",
+      "category": "Movies",
+      "level": 7
+    },
+    {
+      "id": 98,
+      "question": "What is the main purpose of a ship's anchor?",
+      "options": {
+        "a": "To steer the ship",
+        "b": "To increase speed",
+        "c": "To hold the ship in place",
+        "d": "To measure water depth"
+      },
+      "answer": "c",
+      "category": "General Knowledge",
+      "level": 1
+    },
+    {
+      "id": 99,
+      "question": "Which acid is found in the human stomach?",
+      "options": {
+        "a": "Sulphuric Acid",
+        "b": "Nitric Acid",
+        "c": "Hydrochloric Acid",
+        "d": "Acetic Acid"
+      },
+      "answer": "c",
+      "category": "Science",
+      "level": 5
+    },
+    {
+      "id": 100,
+      "question": "The 'Silk Road' was an ancient network of trade routes connecting which two regions?",
+      "options": {
+        "a": "Europe and Africa",
+        "b": "North and South America",
+        "c": "Asia and Europe",
+        "d": "Australia and Asia"
+      },
+      "answer": "c",
+      "category": "History",
+      "level": 4
+    }
+  ]
